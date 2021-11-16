@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 Link to the slide:
-
+https://docs.google.com/presentation/d/1QNgrZQjiVcXOZKKarWaQw9fQszmt3GS10_74maj-bM0/edit?usp=sharing
 
 Paper title:
 An Adaptive Synchronous Parallel Strategy for Distributed Machine Learning
