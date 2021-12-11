@@ -4,6 +4,9 @@ https://youtu.be/wGFBc0QuS0s
 Link to the slide:
 https://docs.google.com/presentation/d/1Mk0Ikr71yur-rqfVGg7geb-wNBl2S-bRRHiynL0CXvA/edit?usp=sharing
 
+Link to concept map:
+https://github.com/daiyanKHAN26/CSE449/blob/main/submission%203/Concept%20map.pdf
+
 Chapter name:
 Work Queue Systems
 
