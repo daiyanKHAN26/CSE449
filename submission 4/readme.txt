@@ -8,7 +8,7 @@ Paper title:
 An ML Based Chatbot for Queries using a Distributed System
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/8327827
+
 
 Submitted to:
 ICAEEE 2022 (International Conference
